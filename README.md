@@ -6,7 +6,7 @@ This repository contains all simulation codes used in the paper:
 > [arXiv:2506.16038](https://arxiv.org/abs/2506.16038)
 
 The simulations explore how *autocratic (zero-determinant)* strategies operate in repeated Cournot competition with different numbers and types of opponents.  
-Each Jupyter notebook corresponds to one figure (or supplementary figure) in the paper.
+Each Jupyter notebook corresponds to one or more figures in the paper.
 
 ---
 
